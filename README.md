@@ -1,2 +1,3 @@
 # Dummy Rich: my iOS Hello World App
 My intro to iOS App development...
+![image](https://user-images.githubusercontent.com/12652202/171784056-03bf4e91-b9c4-4c0e-a659-661732398f60.png)
